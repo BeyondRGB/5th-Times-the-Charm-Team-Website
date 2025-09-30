@@ -8,3 +8,4 @@ A team website for  5th Times the Charm Team senior project team.
 
 ## Time Tracking
 - [September 15th - September 21st, 2025](./time/9-15>>21-25)
+- [September 29th - October 5th, 2025](./time/9-29>>10-5-25)
