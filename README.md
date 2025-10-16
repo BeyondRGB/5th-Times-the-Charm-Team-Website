@@ -16,9 +16,6 @@ A team website for  5th Times the Charm Team senior project team.
 
 Versioned snapshots of project artifacts are published in this repo, with canonical sources in Google Drive.
 
-- Development Methodology Plan — [submissions/development-methodology-plan.md](./submissions/development-methodology-plan.md)
-- Process and Project Metrics Plan — [submissions/process-and-project-metrics.md](./submissions/process-and-project-metrics.md)
-- Additional Elements and Final Plan — [submissions/additional-elements-and-final-plan.md](./submissions/additional-elements-and-final-plan.md)
-
-Canonical Google Drive folder:
-- Submissions (Google Drive): [Drive](https://drive.google.com/?tab=oo&authuser=1)
+- [Development Methodology Plan](./submissions/development-methodology-plan.md)
+- [Process and Project Metrics](./submissions/process-and-project-metrics.md)
+- [Additional Elements and Final Plan](./submissions/additional-elements-and-final-plan.md)
