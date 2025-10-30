@@ -8,6 +8,7 @@ A team website for  5th Times the Charm Team senior project team.
 - [September 29th - October 5th, 2025](./4ups/9-29>>10-5)
 - [October 12th - October 18th, 2025](./4ups/10-12>>10-18)
 - [October 19th - October 25th, 2025](./4ups/10-19>>10-25)
+- [October 26th - November 2nd 2025](./4ups/10-26>>11-2)
 
 ## Time Tracking
 - [September 15th - September 21st, 2025](./time/9-15>>21)
