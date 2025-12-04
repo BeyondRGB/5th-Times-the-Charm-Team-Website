@@ -3,6 +3,7 @@
 ## What did we do?
 - We were on Thanksgiving break.
 - We finished reviewing Jakob's UI PR.
+- We recorded our 1 minute demo for the Senior Project Demos meeting.
 
 ## What are you going to do?
 - We are working on our end of semester presentation
