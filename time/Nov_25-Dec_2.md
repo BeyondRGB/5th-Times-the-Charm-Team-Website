@@ -8,4 +8,4 @@ Note: This was Thanksgiving Break.
 | Taylor Lineman     | 2         |
 | Nat Manoucheri     | 0         |
 | Parker Noffke      | 0         |
-| Raynard Miot       | 0         |
+| Raynard Miot       | 2         |
