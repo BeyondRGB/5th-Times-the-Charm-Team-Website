@@ -7,4 +7,4 @@
 | Taylor Lineman     | 4         |
 | Nat Manoucheri     |         |
 | Parker Noffke      | 4         |
-| Raynard Miot       |          |
+| Raynard Miot       | 2        |
