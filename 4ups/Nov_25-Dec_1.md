@@ -1,4 +1,4 @@
-# 4up for November 25th through December 2nd.
+# 4up for November 25th through December 1st.
  
 ## What did we do?
 - We were on Thanksgiving break.
