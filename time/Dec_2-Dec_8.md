@@ -1,4 +1,4 @@
-# Time Tracking for December 3rd through December 9th
+# Time Tracking for December 2nd through December 8th
 
 | Member             | Time (hr) |
 |--------------------|-----------|
@@ -6,5 +6,5 @@
 | Jakob Langtry      | 0         |
 | Taylor Lineman     | 0         |
 | Nat Manoucheri     | 0         |
-| Parker Noffke      | 0         |
+| Parker Noffke      | 5         |
 | Raynard Miot       | 0         |
