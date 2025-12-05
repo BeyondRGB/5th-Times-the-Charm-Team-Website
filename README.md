@@ -13,7 +13,8 @@ A team website for  5th Times the Charm Team senior project team.
 - [November 11th - November 17th, 2025](./4ups/Nov_Nov_Nov_17)
 - [November 18th - November 24th, 2025](./4ups/Nov_18-Nov_24)
 - [November 18th - November 24th, 2025](./4ups/Nov_18-Nov_24)
-- [November 25th - December 2nd, 2025](./4ups/Nov_25-Dec_2)
+- [November 25th - December 1st, 2025](./4ups/Nov_25-Dec_1)
+- [December 2nd - December 8th, 2025](./4ups/Dec_2-Dec_8)
 
 ## Time Tracking
 - [September 15th - September 21st, 2025](./time/Sep_15-21)
@@ -26,8 +27,9 @@ A team website for  5th Times the Charm Team senior project team.
 - [November 3rd - November 11th, 2025](./time/Nov_3-Nov_11)
 - [November 11th - November 17th, 2025](./time/Nov_11-Nov_17)
 - [November 18th - November 24th, 2025](./time/Nov_18-Nov_24)
-- [November 25th - December 2nd, 2025](./time/Nov_25-Dec_2)
-  
+- [November 25th - December 1st, 2025](./time/Nov_25-Dec_1)
+- [December 2nd - December 8th, 2025](./time/Dec_2-Dec_8)
+
 ## Submissions
 
 Versioned snapshots of project artifacts are published in this repo, with canonical sources in Google Drive.
@@ -39,3 +41,4 @@ Versioned snapshots of project artifacts are published in this repo, with canoni
 ## Demo Presentations
 - [Demo #1](https://docs.google.com/presentation/d/1z9klJU5D9Jj-1tpCBtQchclgTOqajgquj00mh4Ugwdg/edit?usp=sharing)
 - [Demo #2](https://docs.google.com/presentation/d/18sGymK3iPHmPAvf3L3xjiGeHPhgZuam0JmegPlb4_yc/edit?usp=sharing)
+- [Semester Summary Presentation](https://docs.google.com/presentation/d/1ylWSFl8jDSukX-T_0BqvVFe5Jd0t6L66gfSwsiNZ5dI/edit?usp=sharing)
