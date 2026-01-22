@@ -15,6 +15,8 @@ A team website for  5th Times the Charm Team senior project team.
 - [November 18th - November 24th, 2025](./4ups/Nov_18-Nov_24)
 - [November 25th - December 1st, 2025](./4ups/Nov_25-Dec_1)
 - [December 2nd - December 8th, 2025](./4ups/Dec_2-Dec_8)
+- [January 13th - January 19th, 2025](./4ups/Jan_13-Jan_19)
+- [January 20th - January 26th, 2025](./4ups/Jan_20-Jan_26)
 
 ## Time Tracking
 - [September 15th - September 21st, 2025](./time/Sep_15-21)
@@ -29,6 +31,8 @@ A team website for  5th Times the Charm Team senior project team.
 - [November 18th - November 24th, 2025](./time/Nov_18-Nov_24)
 - [November 25th - December 1st, 2025](./time/Nov_25-Dec_1)
 - [December 2nd - December 8th, 2025](./time/Dec_2-Dec_8)
+- [January 13th - January 19th, 2025](./time/Jan_13-Jan_19)
+- [January 20th - January 26th, 2025](./time/Jan_20-Jan_26)
 
 ## Submissions
 
