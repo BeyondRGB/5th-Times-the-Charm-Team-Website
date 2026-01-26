@@ -6,5 +6,5 @@
 | Jakob Langtry      | 0         |
 | Taylor Lineman     | 0         |
 | Nat Manoucheri     | 0         |
-| Parker Noffke      | 7         |
+| Parker Noffke      | 8         |
 | Raynard Miot       | 0         |
