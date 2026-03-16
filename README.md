@@ -54,3 +54,7 @@ Versioned snapshots of project artifacts are published in this repo, with canoni
 - [Demo #1](https://docs.google.com/presentation/d/1z9klJU5D9Jj-1tpCBtQchclgTOqajgquj00mh4Ugwdg/edit?usp=sharing)
 - [Demo #2](https://docs.google.com/presentation/d/18sGymK3iPHmPAvf3L3xjiGeHPhgZuam0JmegPlb4_yc/edit?usp=sharing)
 - [Semester Summary Presentation](https://docs.google.com/presentation/d/1ylWSFl8jDSukX-T_0BqvVFe5Jd0t6L66gfSwsiNZ5dI/edit?usp=sharing)
+- [Demo #4](https://docs.google.com/presentation/d/1-PnH_FXGxAGBIAYWwl0_qKGSjVueNj0o20Yzuj0eUJY/edit?usp=sharing)
+- [Demo #5](https://docs.google.com/presentation/d/1dg7y1DysojceEwNKeF3jlF7tq8sdThOb9Rp8ZpZPeiA/edit?usp=sharing)
+- [Demo #6](https://docs.google.com/presentation/d/1IoecYoce9vgPEvGKtdetRcCmhXwZMgYqxvJL9hiO4iE/edit?usp=sharing)
+
