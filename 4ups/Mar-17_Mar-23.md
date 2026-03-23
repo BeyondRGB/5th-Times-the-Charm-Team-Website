@@ -1,5 +1,5 @@
 
-# 4up for March 17th through March 23th.
+# 4up for March 17th through March 23rd.
  
 ## What did we do?
 - We confirmed with the sponsors what items to take for our last development sprint.
